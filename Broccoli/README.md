@@ -2,11 +2,17 @@
 [實驗環境]
 
 透過Anaconda3建立python虛擬環境。
+
 Python3.9(不能用Python3.5) 
+
 Pytorch 1.10
+
 GPU  NVIDIA-RTX3080
+
 CUDA 11.3
+
 Numpy
+
 建置在Broccoli_env.yaml
 
 
