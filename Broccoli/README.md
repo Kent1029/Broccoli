@@ -18,4 +18,5 @@ http://mulan.sourceforge.net/datasets-mlc.html
 [運行程式碼]
 
 python main_initNMF.py --data [data file directory] --r [rank - number of clusters] --lam_C_perc [L2 regularization weight for C] --res_path [path to the folder where the result is to be stored]
+
 python main_initRND.py --data [data file directory] --r [rank - number of clusters] --lam_C_perc [L2 regularization weight for C] --res_path [path to the folder where the result is to be stored]      
